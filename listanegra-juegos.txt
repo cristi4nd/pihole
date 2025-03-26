@@ -1,10 +1,10 @@
-poki.com
-friv.com
-1001juegos.com
-minijuegos.com
-playhop.com
-juegos.com
-juegos.games
-juegosjuegos.ws
-vipgames.com
-ea.com
+0.0.0.0 poki.com
+0.0.0.0 friv.com
+0.0.0.0 1001juegos.com
+0.0.0.0 minijuegos.com
+0.0.0.0 playhop.com
+0.0.0.0 juegos.com
+0.0.0.0juegos.games
+0.0.0.0 juegosjuegos.ws
+0.0.0.0 vipgames.com
+0.0.0.0 ea.com
